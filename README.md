@@ -2,7 +2,7 @@
 Hierarchial Cluster
 # Strategy to group Engineering Colleges
 
-An independent trainer who would like to pitch your Data Science training program to a set of Engineering colleges. 
+Problem Satement: An independent trainer who would like to pitch your Data Science training program to a set of Engineering colleges. 
 You have data of 26 colleges after survey using questionnaires. 
 Each college has been given a score for 5 performance criteria-Teaching, Fees, Placement, Internship & Infrastructure.
 Ratings are in the standardized scale of 1 to 5 where 5 has a higher weightage than 1. 
